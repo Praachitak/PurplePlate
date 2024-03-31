@@ -1,2 +1,2 @@
 # PurplePlate
-Food Delivery Service
+A food delivery app
